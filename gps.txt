@@ -1,0 +1,5 @@
+steps for getting wifi passowrds in cmd
+
+netsh
+wlan show profile
+wlan show profile name="Mutumba" key clear
